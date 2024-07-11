@@ -231,7 +231,7 @@ gap: 6px;
     color: green;
  }
  .projbutton{
-    margin: auto;
+   
     display: flex;
     justify-content: center;
  }
@@ -570,6 +570,12 @@ gap: 6px;
 
 
 @media (max-width:480px) {
+    .myimagesize img{
+   
+
+        width: 445px;
+      
+    }
 
     .accordion-button {
         position: static !important;
@@ -790,6 +796,12 @@ gap: 6px;
 
 
 @media (min-width:480px) and (max-width:992px) {
+    .myimagesize img{
+   
+
+        width: 445px;
+      
+    }
 
     .accordion-button {
         position: static !important;
