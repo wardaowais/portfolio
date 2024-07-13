@@ -513,6 +513,10 @@ gap: 6px;
     -ms-border-radius: 5%;
     -o-border-radius: 5%;
 }
+.aromadesc{
+    color: white;
+    text-align: center;
+}
 
 .project-showcase .project-link .project-img {
     width: 100%;
